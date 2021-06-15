@@ -1,6 +1,6 @@
 First line
 Second line
-gs add
+gs add branch test
 Third line
 Forth line
 main branch test
