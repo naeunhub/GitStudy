@@ -1,6 +1,6 @@
 First line
 Second line
-lets conflict branch test
+lets conflict sad conflict
 new new
 Third line
 Forth line
