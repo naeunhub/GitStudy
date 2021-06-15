@@ -1,6 +1,7 @@
 First line
 Second line
 gs add branch test
+new new
 Third line
 Forth line
 main branch test
